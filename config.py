@@ -1,0 +1,13 @@
+API_KEY="your_api_key_here"
+API_SECRET="your_api_secret_here"
+
+
+BEARER_TOKEN="your_bearer_token_here"
+
+ACCESS_TOKEN="your_access_token_here"
+ACCESS_TOKEN_SECRET="your_access_token_secret_here"
+
+#To avoid using a db
+#Virtual privete server directory
+# working directory or file path on a remote server where your application is stored. 
+VPS_DIRECTORY="/path/to/your/vps/directory"
